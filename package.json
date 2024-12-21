@@ -1,0 +1,24 @@
+{
+  "name": "beber-agua-",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Gustavo01010001/Beber-agua-#readme",
+  "bugs": {
+    "url": "https://github.com/Gustavo01010001/Beber-agua-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo01010001/Beber-agua-.git"
+  },
+  "license": "ISC",
+  "author": "Gustavo França dos Santos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
